@@ -20,7 +20,7 @@ html {
 body {
 	background: url("http://4.bp.blogspot.com/-uhjF2kC3tFc/U_r3myvwzHI/AAAAAAAACiw/tPQ2XOXFYKY/s1600/Circles-3.gif");
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: #ffffff;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #ff0000;
+  color: #ffffff;
   font-weight: bold;
 
   line-height: 1.7;
@@ -73,7 +73,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #ffffff;
   }
 }
 
