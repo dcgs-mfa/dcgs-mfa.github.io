@@ -20,7 +20,7 @@ html {
 body {
 	background: url("http://rs123.pbsrc.com/albums/o285/jane_doe_102/BACKGROUND%20IMAGES/0s2d1f5sfd.gif~c200");
   font: 18px/1.4 $helvetica;
-  color: #ffffff;
+  color: #00cc00;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #ffffff;
+  color: #00cc00;
   font-weight: bold;
 
   line-height: 1.7;
@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: #ffffff;
+    color: #00cc00;
   }
 }
 h2 {
@@ -60,7 +60,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #ffffff;
+  color: #00cc00;
 }
 
 p {
@@ -68,11 +68,11 @@ p {
 }
 
 a {
-  color: #ffffff;
+  color: #00cc00;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #ffffff;
+    color: #00cc00;
   }
 }
 
